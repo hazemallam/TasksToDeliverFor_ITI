@@ -1,0 +1,7 @@
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseFour\bin\Debug\ExerciseFour.exe.config
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseFour\bin\Debug\ExerciseFour.exe
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseFour\bin\Debug\ExerciseFour.pdb
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseFour\obj\Debug\ExerciseFour.csprojAssemblyReference.cache
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseFour\obj\Debug\ExerciseFour.csproj.CoreCompileInputs.cache
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseFour\obj\Debug\ExerciseFour.exe
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseFour\obj\Debug\ExerciseFour.pdb

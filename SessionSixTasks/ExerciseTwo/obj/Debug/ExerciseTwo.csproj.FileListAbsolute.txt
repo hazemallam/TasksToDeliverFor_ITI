@@ -1,0 +1,7 @@
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseTwo\bin\Debug\ExerciseTwo.exe.config
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseTwo\bin\Debug\ExerciseTwo.exe
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseTwo\bin\Debug\ExerciseTwo.pdb
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseTwo\obj\Debug\ExerciseTwo.csprojAssemblyReference.cache
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseTwo\obj\Debug\ExerciseTwo.csproj.CoreCompileInputs.cache
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseTwo\obj\Debug\ExerciseTwo.exe
+D:\ITP_ITI\Technical\OOP_Csharp\SessionSix\ExerciseTwo\obj\Debug\ExerciseTwo.pdb
